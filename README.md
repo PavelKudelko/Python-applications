@@ -11,7 +11,7 @@ This is **command line applications** that I made using Python.
 
 ### TODO App:
 - TODO command line app
-- Features: Add task, Edit task, List tasks, Remove task.
+- Features: Add task, Edit task, List tasks, Remove task, all task stored in file "todo.csv"
 ### Screenshots:
 - <img src="to_do-app/screenshot_todoapp1.png" width="300">  <img src="to_do-app/screenshot_todoapp3.png" width="300">
 

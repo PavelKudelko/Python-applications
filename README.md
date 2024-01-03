@@ -13,10 +13,10 @@ This is command line applications that I made using Python.
 - TODO command line app
 - Features: Add task, Edit task, List tasks, Remove task.
 Screenshots
--  |----------------------|-----------------------------------------------------------|
-   | Add task             | <img src="to_do-app/screenshot_todoapp1.png" width="500"> |
-   | List tasks           | <img src="to_do-app/screenshot_todoapp3.png" width="500"> |
-   | Edit task            | <img src="to_do-app/screenshot_todoapp2.png" width="500"> |
+|                                                             |                                                     |
+|-------------------------------------------------------------|-----------------------------------------------------|
+| <img src="to_do-app/screenshot_todoapp1.png" width="500">   | <img src="to_do-app/screenshot_todoapp3.png" width="500">   |
+
 
 ---
 

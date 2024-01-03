@@ -2,7 +2,7 @@
 
 ## Python in-line applications
 
-This is command line applications that I made using Python.
+This is **command line applications** that I made using Python.
 
 ### Status
 - In progress, will be more applications in future

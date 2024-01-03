@@ -1,6 +1,6 @@
 # Python-applications
 
-## Python command line applications applications
+## Python command line applications
 
 This is **command line applications** that I made using Python.
 

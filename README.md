@@ -12,7 +12,7 @@ This is command line applications that I made using Python.
 ### TODO App:
 - TODO command line app
 - Features: Add task, Edit task, List tasks, Remove task.
-Screenshots:
+### Screenshots:
 - <img src="to_do-app/screenshot_todoapp1.png" width="300">  <img src="to_do-app/screenshot_todoapp3.png" width="300">
 
 ---
@@ -20,7 +20,7 @@ Screenshots:
 ### Sorting algotithms:
 - This application calculates how long it takes to execute algorithms: **Bubble sort** and **Quicksort**
 - To test it use "data100.txt" file from project folder
-Screenshots:
+### Screenshots:
 -  <img src="sorting-algorithms/screenshot_sorting.png" width="500">
 
 ---
@@ -28,7 +28,7 @@ Screenshots:
 ### Multiplicative persistence
 - This app counts the multiplicative persistence of a number
 - To get more knowledge about it visit: https://en.wikipedia.org/wiki/Persistence_of_a_number
-Screenshots:
+### Screenshots:
 -  <img src="multiplicative_persistence/screenshot_mult_persist.png" width="500">
 
 ---
